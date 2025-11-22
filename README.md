@@ -2,4 +2,4 @@
 My first html project
 <br>
 
-author-preetikushwaha
+in this project it provide study metrial
